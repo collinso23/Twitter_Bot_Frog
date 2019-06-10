@@ -1,0 +1,8 @@
+__pycache__/
+Code/__pycache__/
+Code/credentials.py
+Include/
+Lib/
+Scripts/
+pip-selfcheck.json
+pyvenv.cfg
